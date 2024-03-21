@@ -20,6 +20,7 @@
   "contributors": [
     "Joe Maller <joe@ideasonpurpose.com>"
   ],
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "version": "npx version-everything && git add -u"
