@@ -1,0 +1,35 @@
+{
+  "name": "@ideasonpurpose/stylelint-config",
+  "version": "0.0.0",
+  "description": "Common Stylelint config for projects at Ideas On Purpose",
+  "keywords": [
+    "stylelint",
+    "stylelint-order",
+    "prettier"
+  ],
+  "homepage": "https://github.com/ideasonpurpose/stylelint-config#readme",
+  "bugs": {
+    "url": "https://github.com/ideasonpurpose/stylelint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideasonpurpose/stylelint-config.git"
+  },
+  "license": "MIT",
+  "author": "Ideas On Purpose (https://www.ideasonpurpose.com/)",
+  "contributors": [
+    "Joe Maller <joe@ideasonpurpose.com>"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "version": "npx version-everything && git add -u"
+  },
+  "devDependencies": {
+    "version-everything": "^0.11.0"
+  },
+  "version-everything": {
+    "files": [
+      "README.md"
+    ]
+  }
+}

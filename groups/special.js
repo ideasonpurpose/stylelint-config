@@ -1,0 +1,25 @@
+export const special = {
+  groupName: "Special",
+  emptyLineBefore: "threshold",
+  noEmptyLineBetween: true,
+  properties: [
+    "composes",
+    "@use",
+    "@forward",
+    "@import",
+    "@mixin",
+    "@include",
+    "@function",
+    "@extend",
+    "@error",
+    "@warn",
+    "@debug",
+    "@at-root",
+
+    "@if",
+    "@else",
+    "@each",
+    "@for",
+    "@while",
+  ],
+};
