@@ -1,6 +1,6 @@
 # IOP's Stylelint Config
 
-#### Version 0.0.0
+#### Version 0.0.1
 
 ![NPM Version](https://img.shields.io/npm/v/%40ideasonpurpose%2Fstylelint-config?logo=npm)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ideasonpurpose/stylelint-config/npm-publish.yml?logo=github&logoColor=white)
