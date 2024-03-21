@@ -25,9 +25,6 @@
   "scripts": {
     "version": "npx version-everything && git add -u"
   },
-  "devDependencies": {
-    "version-everything": "^0.11.0"
-  },
   "version-everything": {
     "files": [
       "README.md"
