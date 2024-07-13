@@ -5,10 +5,10 @@ export const typography = {
   properties: [
     "color",
     "font",
-    "font-weight",
-    "font-size",
     "font-family",
     "font-style",
+    "font-weight",
+    "font-size",
     "font-variant",
     "font-size-adjust",
     "font-stretch",
