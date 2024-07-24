@@ -29,6 +29,7 @@ export const typography = {
     "text-decoration-color",
     "text-decoration-style",
     "text-decoration-thickness",
+    "text-decoration-skip-ink",
     "text-underline-position",
     "text-underline-offset",
     "text-emphasis",
