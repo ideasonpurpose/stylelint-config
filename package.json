@@ -1,6 +1,6 @@
 {
   "name": "@ideasonpurpose/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common Stylelint config for projects at Ideas On Purpose",
   "keywords": [
     "stylelint",
