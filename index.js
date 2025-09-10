@@ -7,6 +7,7 @@ import { misc } from "./groups/miscellaneous.js";
 import { positioning } from "./groups/positioning.js";
 import { special } from "./groups/special.js";
 import { transition } from "./groups/transition.js";
+import { svg } from "./groups/svg.js";
 import { typography } from "./groups/typography.js";
 import { visual } from "./groups/visual.js";
 
@@ -28,6 +29,7 @@ export default {
         visual,
         transition,
         animation,
+        svg,
         misc,
       ],
       {
