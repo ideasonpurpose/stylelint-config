@@ -4,9 +4,7 @@ export const misc = {
   noEmptyLineBetween: true,
   properties: [
     "appearance",
-    // "content",
     "clip",
-    "clip-path",
     "counter-reset",
     "counter-increment",
     "resize",
@@ -21,9 +19,5 @@ export const misc = {
     "touch-action",
     "will-change",
     "zoom",
-    "fill",
-    "fill-rule",
-    "clip-rule",
-    "stroke",
   ],
 };
