@@ -25,7 +25,7 @@
   "scripts": {
     "version": "npx version-everything && git add -u"
   },
-  "dependencies": {
+  "peerDependencies": {
     "postcss-scss": "^4.0.9",
     "prettier": "^3.6.2",
     "stylelint": "^16.24.0",

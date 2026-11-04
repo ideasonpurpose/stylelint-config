@@ -9,13 +9,19 @@
 
 ## How to use
 
-Install this package:
+This package is primarily used with our [build-tools-wordpress](https://github.com/ideasonpurpose/build-tools-wordpress) pipeline, which installs this config along with all required peer dependencies.
+
+### Standalone install
+
+To use this with any project, install this package and its peer dependencies (change to `pnpm add` for `pnpm`):
 
 ```sh
-npm install --save-dev @ideasonpurpose/stylelint-config
+npm install --save-dev @ideasonpurpose/stylelint-config stylelint stylelint-order stylelint-prettier postcss-scss prettier
 ```
 
-Then add this `stylelint` key to the project's package.json file:
+### Configure
+
+Add this `stylelint` key to the project's package.json file:
 
 ```json
   "stylelint": {
